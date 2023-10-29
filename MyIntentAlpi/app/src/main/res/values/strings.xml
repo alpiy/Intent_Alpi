@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyIntents</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_with_data">Pindah Dengan Data</string>
+    <string name="dial_number">Nomor Telepon</string>
+    <string name="move_with_result">Pindah Activity Dengan Hasil</string>
+    <string name="result_from_activity">Hasil Dari Activity</string>
+    <string name="choose_color">Pilih Warna</string>
+    <string name="_purple">Ungu</string>
+    <string name="_red">mail</string>
+    <string name="_black">Dark Purple</string>
+    <string name="choose">Pilih</string>
+    <string name="data_received">Data Yang Diterima</string>
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
+</resources>
